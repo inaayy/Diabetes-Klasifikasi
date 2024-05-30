@@ -1,8 +1,8 @@
 import streamlit as st
 import pickle
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+# import matplotlib.pyplot as plt
+# import seaborn as sns
 
 from imblearn.over_sampling import SMOTE # deal with imbalance data
 from sklearn.preprocessing import OrdinalEncoder
