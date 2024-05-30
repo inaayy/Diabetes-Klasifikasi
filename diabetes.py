@@ -5,10 +5,10 @@ import numpy as np
 # import seaborn as sns
 
 # from imblearn.over_sampling import SMOTE # deal with imbalance data
-from sklearn.preprocessing import OrdinalEncoder
-from sklearn.metrics import accuracy_score,classification_report,confusion_matrix
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
+# from sklearn.preprocessing import OrdinalEncoder
+# from sklearn.metrics import accuracy_score,classification_report,confusion_matrix
+# from sklearn.ensemble import RandomForestClassifier
+# from sklearn.model_selection import train_test_split
 
 # Load the trained model
 # filename = 'diabetes_dataset.sav'
