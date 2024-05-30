@@ -4,7 +4,7 @@ import numpy as np
 # import matplotlib.pyplot as plt
 # import seaborn as sns
 
-from imblearn.over_sampling import SMOTE # deal with imbalance data
+# from imblearn.over_sampling import SMOTE # deal with imbalance data
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.metrics import accuracy_score,classification_report,confusion_matrix
 from sklearn.ensemble import RandomForestClassifier
